@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.santegidio.dove-roma-2017"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Dove Roma 2017</name>
+
+  <description>
+      DOVE mangiare, dormire, lavarsi. La guida per chi non ha casa o è in difficoltà. A cura della Comunità di Sant'Egidio. Edizione Roma 2017
+  </description>
+
+  <author href="http://www.santegidio.org" email="romadove@tiscali.it">
+      Comunità di Sant'Egidio
+  </author>
+  </widget>
